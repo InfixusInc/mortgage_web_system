@@ -1,0 +1,152 @@
+[
+    {
+        "id":"1",
+        "name":"Westlea, Harare",
+        "parent_id":"0"
+    },
+    {
+        "id":"2",
+        "name":"Eastview, Harare",
+        "parent_id":"0"
+    },
+    {
+        "id":"3",
+        "name":"Zimre Park, Harare",
+        "parent_id":"0"
+    },
+    {
+        "id":"4",
+        "name":"Glenroy Lakeside Park,, Harare",
+        "parent_id":"0"
+    },
+    {
+        "id":"5",
+        "name":"Somerby Subdivision 2, Harare",
+        "parent_id":"0"
+    },
+    {
+        "id":"6",
+        "name":"Southlea Park, Harare",
+        "parent_id":"0"
+    },
+    {
+        "id":"7",
+        "name":"Budiriro Extension, Harare",
+        "parent_id":"0"
+    },
+    {
+        "id":"8",
+        "name":"Edinburgh Subdivision 6, Harare",
+        "parent_id":"0"
+    },
+    {
+        "id":"9",
+        "name":"Upper Rangemore, Bulawayo",
+        "parent_id":"0"
+    },
+    {
+        "id":"10",
+        "name":"Lower Rangemore, Bulawayo",
+        "parent_id":"0"
+    },
+    {
+        "id":"11",
+        "name":"Fortune Medowlands, Gweru",
+        "parent_id":"0"
+    },
+    {
+        "id":"12",
+        "name":"Mbuya Maria, Mutare",
+        "parent_id":"0"
+    },
+    {
+        "id":"13",
+        "name":"Atherstone, Bindura",
+        "parent_id":"0"
+    },
+    {
+        "id":"14",
+        "name":"Alves of Eden, Chinhoyi",
+        "parent_id":"0"
+    },
+    {
+        "id":"15",
+        "name":"Yellow City, Marondera",
+        "parent_id":"0"
+    },
+    {
+        "id":"16",
+        "name":"150 m&sup2",
+        "parent_id":"1"
+    },
+    {
+        "id":"17",
+        "name":"200 m&sup2",
+        "parent_id":"1"
+    },
+    {
+        "id":"18",
+        "name":"250 m&sup2",
+        "parent_id":"1"
+    },
+    {
+        "id":"19",
+        "name":"300 m&sup2",
+        "parent_id":"1"
+    },
+    {
+        "id":"20",
+        "name":"400 m&sup2",
+        "parent_id":"1"
+    },
+    {
+        "id":"21",
+        "name":"450 m&sup2",
+        "parent_id":"1"
+    },
+    {
+        "id":"22",
+        "name":"500 m&sup2",
+        "parent_id":"1"
+    },
+    {
+        "id":"23",
+        "name":"550 m&sup2",
+        "parent_id":"1"
+    },
+    {
+        "id":"24",
+        "name":"600 m&sup2",
+        "parent_id":"1"
+    },
+    {
+        "id":"25",
+        "name":"5 Years",
+        "parent_id":"2"
+    },
+    {
+        "id":"26",
+        "name":"10 Years",
+        "parent_id":"2"
+    },
+    {
+        "id":"27",
+        "name":"15 Years",
+        "parent_id":"2"
+    },
+    {
+        "id":"28",
+        "name":"20 Years",
+        "parent_id":"2"
+    },
+    {
+        "id":"29",
+        "name":"25 Years",
+        "parent_id":"2"
+    },
+    {
+        "id":"30",
+        "name":"30 Years",
+        "parent_id":"2"
+    }
+]
